@@ -1,12 +1,14 @@
-package uk.tw.energy.controller;
+package uk.tw.energy.uso;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.http.HttpStatus;
 import uk.tw.energy.builders.MeterReadingsBuilder;
 import uk.tw.energy.domain.ElectricityReading;
-import uk.tw.energy.domain.MeterReadings;
-import uk.tw.energy.service.MeterReadingService;
+
+import uk.tw.energy.usoMeterReading.MeterReadingController;
+import uk.tw.energy.usoMeterReading.MeterReadingService;
+import uk.tw.energy.usoMeterReading.MeterReadings;
 
 import java.util.ArrayList;
 import java.util.Collections;
