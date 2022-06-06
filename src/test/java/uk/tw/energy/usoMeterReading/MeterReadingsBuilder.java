@@ -1,4 +1,4 @@
-package uk.tw.energy.builders;
+package uk.tw.energy.usoMeterReading;
 
 import uk.tw.energy.domain.ElectricityReading;
 import uk.tw.energy.generator.ElectricityReadingsGenerator;

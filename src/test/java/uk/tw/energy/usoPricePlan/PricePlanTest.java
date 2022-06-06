@@ -1,4 +1,4 @@
-package uk.tw.energy.domain;
+package uk.tw.energy.usoPricePlan;
 
 import org.assertj.core.data.Percentage;
 import org.junit.jupiter.api.Test;
